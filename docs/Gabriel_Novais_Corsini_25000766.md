@@ -8,10 +8,16 @@ Data: 25/03/2026
 ---
 
 # 1. Definição do MVP
-Descreva aqui **qual parte do sistema** foi incluída no seu MVP.  
-Explique claramente:
+O Sistema Integrado de Gestão "Saúde & Vida", esta aqui para resolver o problema com a falta de gerenciamento de estoque e as vendas.
 
-- O que está **dentro** do MVP  
+Saúde & Vida traz dentro do sistema
+-Vendas presencial: Registra vendas à vista ou a prazo;
+-Gestão de estoque: Registra as quantidades dos produtos dentro do estoque em tempo real;
+-Segurança da venda de medicamento controlado: Exigi uma validação do perfil do farmacêutico para liberar a venda;
+-Cadastro de cliente: Registra o cliente dentro do sistema para ver os historicos de compra e permitir vendas a prazo;
+-Financeiro: Registra automático em contas a receber e lançamento manuel em contas a pagar;
+-Relatorio de falta: Lista de produtos abaixo do estoque mínimo para evitar falta de mercadoria.
+
 - O que está **fora** do MVP  
 - Por que você fez essas escolhas  
 
