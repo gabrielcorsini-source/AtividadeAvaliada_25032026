@@ -45,8 +45,12 @@ Exemplo de início:
 **RN01 —** Vendas de Controlados
 O sistema permite as vendas de remedios controlados só com a receita do farmacêutico.
 
-**RN02 —**  
-**RN03 —**  
+**RN02 —** Vendas a prazo
+O cliente não pode fazer pagamentos a prazo se o registro dele estiver com um pagamento pedente.
+
+**RN03 —** Gerenciamento de Estoque
+O sistema deve modificar o estoque em toda venda feita ou a chegada de novas mercadorias.
+
 **RN04 —**  
 **RN05 —**  
 
