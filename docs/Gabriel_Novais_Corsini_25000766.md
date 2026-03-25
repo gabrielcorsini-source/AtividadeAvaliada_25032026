@@ -39,10 +39,12 @@ Exemplo de início:
 
 ---
 
-# 2. Regras de Negócio (mínimo: 5)
-Liste e descreva **cada RN** de forma clara.
+# 2. Regras de Negócio 
 
-**RN01 —**  
+
+**RN01 —** Vendas de Controlados
+O sistema permite as vendas de remedios controlados só com a receita do farmacêutico.
+
 **RN02 —**  
 **RN03 —**  
 **RN04 —**  
